@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "velvety-castle-414308",
+  "private_key_id": "476fdf19a53fc7204a550bc51dc291a399936a44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGWq4b5n/gOD5p\nEl4CXC9OPxHY392SD0S5CkSJGg+CHkjwSSgvr1RBAGP2PkRlnd5cnHExX0cjzYC2\nkXJLhdgkQ0QXhbsYsXQP7CDpyp2hCMV/4sK1lK11Ua8oXYNcqpgyrrwruar/vvfR\nKp+Mu0Zit8IdsninufC0twCO3LmARibCxIZgIJ8I/mCoTuyBNEZopMzERO/SK1iM\nHeiZlDtubQYdVNwvMqC/FYaFh1oT9QmPq9BoLjZryz4OVsxj9YXMs5/3imt/yb/M\nqVnUhmmcBbOQ5vSL9/R9z91tzH4sqIHyt7yYHPYUFdkXlWFtMR/N9eIk+Hvtn85v\n6VAIatb5AgMBAAECggEAFHhsSoXVwaKcUkSqfgzcdvNMWLj1yWqY+Y3FN+8AFboh\nZebu5kjuZYzwRAv2DBSoS597kRBXq6q8M1s8U+36ufdVMiZDgk9h/nishuQ5s1JP\n65xP4uR2qEpnTL+l3Gzgqy5cThjpvF4NfkErWR9EqtBzEJSIHisy27udK6E85a9p\nCLXQakvgNlvOLausPMyGdn4JC46xwLtrcEK77Z4eYqiXYY/LYf3/4+cgzpexAk4A\nk1v3B1nOhKZnTPCPmBpnOpSqPx3ELn7XyxQDYSJp47ALn2ONIxjzHGWlNyJH2gbg\nYk5/hT7l27bezesX3PEIWsEc+IfmbtE6mMEMapoA3wKBgQD1EKtBuH16+RO+pA5j\n7rAkMvQOiHwzUMYEpTgwAiQKIp/BP3Is/GZO1EfMIy9vSGQlZcpD5YfeyBpmiPg2\nDAaIoX9Davi5/9DAlc0IlNig2suzGSb4JIyN/EGTsApHx0DIqzzZKmiSCX7OAVE/\nSZeoEMExUuPmwr/LxgnKwNhzwwKBgQDPNHETcgLrqA4KVS52pry1th3E7fR6vlQB\nOu/u+BFvNWU3nQXBNEwzkKTI/GmvGwNfsWvR6mwiNyiB2lk2FYtaxeItIYwPsv5q\n4ds4qNDQTVTmzsyDbdT08TkjxFNoEBnehFQnvSyeO1nzzFRhHtptKwKzch20ufFZ\nXDLvog5KkwKBgE9uWbPxkmpbdTTjg+6MHPd+tHBJeMhBNA2pZ67X4sqOMm22nNFL\n9fUzBRp7hRJyylL8zTR4nzNsdHIrjxglibCbd95oO7o92nGxnEVdyWFJyaCBVIo1\nfoE+9BpkgtCFGtBwAEb7Ye2DumAXOThkKA3HcHcGQOw4z2XDCMV5AC91AoGAJjFU\nZnEteKKRc/Yfil9RiWz4L8Rsu/M5KMDkWPgAvq7o6UdYODSblyWiOinMkSo5hPn/\nFcJQDD5+iPDmYMG33hN7jTYRyxMDMlBPSDJVyw92BtU3fUJRbpTII3+coCHXotxh\nZrHH96KZAgc3xm8Zc+XpqYnvT9C2W/JSsTj9yWECgYAAhHirRv8ADZ8heTM2PkL7\neto5G2dLhzAUmISM6s9KPqdpdSqn7njXnTRO2nQRwysPpugj/jPqSJfKhXGoArNK\ng9/miiZv0ZSJwanF9vjFJO3JqX628mVvba4ZoGbRJsw3Uv2WPISxkwv7osI7oPWP\nDh2Q1QlV8s8Wt9wliRCJdQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ded3-uploading-files-to-gcs@velvety-castle-414308.iam.gserviceaccount.com",
+  "client_id": "112329614350608247885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ded3-uploading-files-to-gcs%40velvety-castle-414308.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
